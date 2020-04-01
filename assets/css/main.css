@@ -183,7 +183,7 @@ body {
   border-bottom: 1px dashed #2EA8E6;
 }
 
-@media screen and (max-width: 479px) {
+@media screen and (max-width: 800px) {
   .block {
     grid-template-columns: 1fr;
   }
